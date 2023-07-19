@@ -1,6 +1,6 @@
 # GifsApp
 ## Description
-A simple gif app searcher working with Giphy Api made on Angular
+A simple gif app searcher working with Giphy Api made with Angular and Bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
